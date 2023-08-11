@@ -6,5 +6,4 @@ This project was created as a University Project to learn Web Development tools 
 ## Continuity
 This project may be continued after the semester ends, but there will be no guarantee
 
-Test
 
